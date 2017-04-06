@@ -7,8 +7,10 @@
 #include <windows.h>  
 #pragma comment(lib, "winmm.lib")  
 
+void test()
+{
 
-
+}
 /**/
 //RandomAccessFile fopen(String path) throws IOException {
 //	File f = new File(path);
